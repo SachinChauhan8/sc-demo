@@ -4,6 +4,7 @@
 
 <h2>HTML Forms</h2>
 <h1>
+<h4>
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
@@ -13,6 +14,7 @@
   <input type="submit" value="Submit">
 </form> 
 
+<span>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</span>
 <a>123 If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</a>
 
 </body>
