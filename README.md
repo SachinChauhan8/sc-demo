@@ -3,7 +3,7 @@
 <body>
 
 <h2>HTML Forms</h2>
-<h3></h3> Forms></h3>
+<h3></h3> Forms></h3><h3></h3> Forms></h3>
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
